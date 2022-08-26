@@ -1,0 +1,202 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'josefin Sans', sans-serif ;
+    box-sizing: border-box;
+}
+
+
+/* UI */
+.ui h2{
+    color: #f9004d;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.aboutui{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: #221e1e;
+}
+
+.aboutui img{
+    height: 430px;
+    width: auto;
+    border-radius: 20px;
+}
+
+.aboutui-text{
+    width: 550px;
+}
+
+.ayoMasak{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.aboutui h2{
+    color: white;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.aboutui-text h5{
+    color: #5F5E5E;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+.aboutui-text p{
+    color: #fcfc;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+
+
+/* Website */
+.website h2{
+    color: #f9004d;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.aboutWebsite{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: #221e1e;
+}
+
+.aboutWebsite img{
+    height: 430px;
+    width: auto;
+    border-radius: 20px;
+    margin-left: 20%;
+}
+
+.aboutWebsite-text{
+    margin-top: 20px;
+    margin-left: 20%;
+    width: 550px;
+}
+
+.lp-bojonegoro{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.aboutWebsite    h2{
+    color: white;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.aboutWebsite-text h5{
+    color: #5F5E5E;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+.aboutWebsite-text p{
+    color: #fcfc;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+
+/* Website */
+.Aplication h2{
+    color: #f9004d;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.aboutAplication{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: #221e1e;
+}
+
+.aboutAplication img{
+    height: 430px;
+    width: auto;
+    border-radius: 20px;
+    margin-left: 20%;
+}
+
+.aboutAplication-text{
+    margin-top: 20px;
+    margin-left: 20%;
+    width: 550px;
+}
+
+.aboutAplication    h2{
+    color: white;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.aboutAplication-text h5{
+    color: #5F5E5E;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+.aboutAplication-text p{
+    color: #fcfc;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+
+/* Button */
+
+
+button{
+    background-color: #f9004d;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 13px 30px;
+    border-radius: 30px;
+}
+
+button:hover{
+    background-color: transparent;
+    border: 2px solid #f9004d;
+    cursor: pointer;
+}
+
+

@@ -1,6 +1,6 @@
 <p align="center">PROJECT PREVIEW</p>
                                           
-##Home Preview
+## Home Preview
 ![1](https://user-images.githubusercontent.com/92833376/213973065-beec6589-b947-4eb3-8d65-ccd76480111d.png)
 
 Tampilan About

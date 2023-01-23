@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<p align="center">## TAMPILAN PROJECT</p>
+<p align="center" width="400" >TAMPILAN PROJECT</p>
 
 <p> TAMPILAN WEBSITE
                                           

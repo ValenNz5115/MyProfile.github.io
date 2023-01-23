@@ -1,4 +1,4 @@
-<p align="center" style="font-size:75" width="400" font-size: 35px; >TAMPILAN PROJECT</p>
+<p align="center">TAMPILAN PROJECT</p>
                                           
 Tampilan Home
 ![1](https://user-images.githubusercontent.com/92833376/213973065-beec6589-b947-4eb3-8d65-ccd76480111d.png)

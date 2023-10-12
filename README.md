@@ -22,7 +22,7 @@ Tambahkan tautan ke demo live proyek Anda di sini.
 
 ## 📸 Tampilan
 
-Tambahkan tangkapan layar atau GIF yang memperlihatkan proyek Anda.
+![preview project](https://github.com/ValenNz/MyProfile.github.io/assets/92833376/f7b0cee2-cd2d-42d7-b9d1-501e611244bd)
 
 ## ✨ Fitur
 

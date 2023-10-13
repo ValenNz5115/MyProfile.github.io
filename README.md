@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="link_gambar_logo_proyek_anda" alt="Logo Proyek Anda">
+    ![N (1)](https://github.com/ValenNz/MyProfile.github.io/assets/92833376/376824fa-9229-445b-8ce0-213ae4620a91)
 </p>
 
 <h1 align="center">Portofolio Saya</h1>

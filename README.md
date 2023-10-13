@@ -1,4 +1,6 @@
-![N (1)](https://github.com/ValenNz/MyProfile.github.io/assets/92833376/2ab34786-3abf-43a3-b510-42fa5a74b485)
+<p align="center">
+  <img src="[https://example.com/logo.png](https://drive.google.com/drive/folders/1V6aR-Z1d4sFuAKy0J5oTDo1Kbf2f9HIw)" alt="Logo Proyek">
+</p>
 
 <h1 align="center">Portofolio Saya</h1>
 

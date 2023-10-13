@@ -18,7 +18,8 @@
 
 ## 🌐 Demo
 
-Tambahkan tautan ke demo live proyek Anda di sini.
+Please klick for demo
+https://valennz.github.io/MyProfile.github.io/
 
 ## 📸 Tampilan
 

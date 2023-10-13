@@ -27,9 +27,9 @@ https://valennz.github.io/MyProfile.github.io/
 
 ## ✨ Fitur
 
-- 🚀 Fitur 1: Deskripsi fitur 1.
-- 💡 Fitur 2: Deskripsi fitur 2.
-- ⚙️ Fitur 3: Deskripsi fitur 3.
+- 🚀 **Landing Page**: Halaman utama yang memikat pengunjung dengan tampilan yang indah dan navigasi yang ramah pengguna. Ini adalah pintu masuk ke dunia proyek ini.
+- 💡 **About Me**: Mengapa saya melakukan apa yang saya lakukan? Pelajari lebih lanjut tentang latar belakang, minat, dan visi saya sebagai pengembang web.
+- ⚙️ **Project**: Sebuah wadah untuk proyek-proyek menarik yang telah saya kerjakan. Lihat berbagai aplikasi web, situs web portofolio, dan proyek lainnya yang telah saya selesaikan.
 
 ## 🛠️ Teknologi
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/drive/folders/1V6aR-Z1d4sFuAKy0J5oTDo1Kbf2f9HIw" alt="Logo Proyek">
+  <img src="https://github.com/ValenNz/MyProfile.github.io/blob/main/gambar/Logo.png" alt="Logo Proyek" width="200">
 </p>
 
 <h1 align="center">Portofolio Saya</h1>

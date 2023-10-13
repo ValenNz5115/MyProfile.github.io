@@ -1,4 +1,4 @@
-    ![N (1)](https://github.com/ValenNz/MyProfile.github.io/assets/92833376/376824fa-9229-445b-8ce0-213ae4620a91)
+![N (1)](https://github.com/ValenNz/MyProfile.github.io/assets/92833376/2ab34786-3abf-43a3-b510-42fa5a74b485)
 
 <h1 align="center">Portofolio Saya</h1>
 
